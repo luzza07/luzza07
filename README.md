@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/luzza-dangol-b1b56a338/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luzza dangol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luzza-dangol-b1b56a338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luzza dangol" height="30" width="40" /></a>
 <a href="https://fb.com/luzza dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luzza dangol" height="30" width="40" /></a>
 <a href="https://instagram.com/luzza dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luzza dangol" height="30" width="40" /></a>
 </p>
