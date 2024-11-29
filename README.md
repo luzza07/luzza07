@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luzza Dangol</h1>
+<h2>Frontend Developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luzza07&label=Profile%20views&color=0e75b6&style=flat" alt="luzza07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luzza07" alt="luzza07" /></a> </p>
